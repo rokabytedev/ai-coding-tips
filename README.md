@@ -1,1 +1,1 @@
-Check out https://the-third-mind.com/ai-coding-tips for how to use this repo.
+Check out https://the-third-mind.com/ai-coding-context-window for how to use this repo.
